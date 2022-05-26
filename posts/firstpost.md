@@ -1,6 +1,16 @@
 ---
-
+title: Post Number 1 - US History
+description: My Take on US History Taught vs Reality
+date: 2022-05-23
+scheduled: 2022-05-23
+tags:
+  - posts
+layout: layouts/post.njk
+[![koolaidman-1.gif](https://gifyu.com/image/SxKZL)
+[![An image](https://i.ytimg.com/vi/lQBUB-x3b_0/maxresdefault.jpg)
 ---
+[![koolaidman-1.gif](https://s8.gifyu.com/images/koolaidman-1.gif)
+
 
 
 So Im not sure about you but what I know is this that when i was in school , America was a melting Pot, bring your sick your tired your poor, create a better life with opportunity for your family. We had Thanksgiving plays where it was this great thing, 
