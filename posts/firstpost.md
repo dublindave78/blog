@@ -9,7 +9,7 @@ layout: layouts/post.njk
 [![koolaidman-1.gif](https://gifyu.com/image/SxKZL)
 [![An image](https://i.ytimg.com/vi/lQBUB-x3b_0/maxresdefault.jpg)
 ---
-[![koolaidman-1.gif](https://s8.gifyu.com/images/koolaidman-1.gif)
+![koolaidman-1.gif]
 
 
 
