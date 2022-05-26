@@ -1,26 +1,26 @@
 {
-  "title": "Title of the website. Update me.",
-  "url": "https://update-me.com",
-  "domain": "update-me.com",
-  "description": "Description of the website. Update me.",
-  "genre": "Insert a schema.org genre",
+  "title": "What Grinds My Gears",
+  "url": "https://whatgrindsmygears.blog",
+  "domain": "whatgrindsmygears.blog",
+  "description": "Shit that irritates me, pisses me off, shit I dont get how people are so stupid that I dont understand how they don't get it",
+  "genre": "article",
   "googleAnalyticsId": "GA ID. Update me. Note, that this is not compatible with the not-yet-commonly used version 4 of Google Analytics",
   "sendWebVitals": false,
   "feed": {
-    "subtitle": "Subtitle. Update me.",
+    "subtitle": "firstpost US History",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://update-me.com"
+    "id": "https://whatgrindsmygears.blog"
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
-    "url": "https://update-me.com/feed/feed.json"
+    "url": "https://whatgrindsmygears.blog/feed/feed.json"
   },
   "author": {
-    "name": "Author Name. Update me.",
-    "twitterHandle": "update_me"
+    "name": "Justa Nobody
+    "twitterHandle": "#justnobody_22"
   },
   "publisher": {
-    "name": "Publisher name. Update me."
+    "name": "Justa Nobody"
   }
 }
