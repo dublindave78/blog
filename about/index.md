@@ -9,4 +9,4 @@ eleventyNavigation:
 
 I am a person that writes stuff.
 
-This blog template is based on [eleventy-high-performance-blog](https://www.industrialempathy.com/posts/eleventy-high-performance-blog/) which itself is based on [eleventy-base-blog](https://github.com/11ty/eleventy-base-blog).
+This is my blog in my space, I dont care if you like it , I will factually back my argumnent up. i do enjoy good banter.
