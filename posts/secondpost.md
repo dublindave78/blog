@@ -1,3 +1,4 @@
+----
 title: Here We Go Again - Post #2 - Prisons
 description: My deepest beliefs on prioons.
 date: 2018-20-05
@@ -6,8 +7,6 @@ tags: second-tag
 layout: layouts/post.njk
 [![stewie-prison.jpg](https://s8.gifyu.com/images/stewie-prison.jpg)](https://gifyu.com/image/SxKZM)
 [![fingers_1.gif](https://s8.gifyu.com/images/fingers_1.gif)](https://gifyu.com/image/SxKZs)
-
-
 ----
 
 ![stewie-prison.jpg](https://gifyu.com/images/stewie-prison.jpg)
