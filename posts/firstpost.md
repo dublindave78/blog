@@ -6,10 +6,11 @@ scheduled: 2022-05-23
 tags:
   - posts
 layout: layouts/post.njk
-[![koolaidman-1.gif](https://gifyu.com/image/SxKZL)
+
 [![An image](https://i.ytimg.com/vi/lQBUB-x3b_0/maxresdefault.jpg)
 ---
-![koolaidman-1.gif](https://gifyu.com/image/SxKZL)
+[![koolaidman-1](https://gifyu.com/image/SxKZL)
+
 
 
 
