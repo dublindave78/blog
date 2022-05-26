@@ -6,11 +6,11 @@ scheduled: 2022-05-23
 tags:
   - posts
 layout: layouts/post.njk
-[![An img](https://gifyu.com/image/SxKZL)
+[![An img](https://s8.gifyu.com/image/SxKZL)
 [![An image](https://i.ytimg.com/vi/lQBUB-x3b_0/maxresdefault.jpg)
 
 ---
-![An Img](https://gifyu.com/image/SxKZL)
+![An Img](https://s8.gifyu.com/image/SxKZL)
 
 
 
