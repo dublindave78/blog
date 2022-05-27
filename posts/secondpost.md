@@ -8,7 +8,8 @@ tags:
 layout: layouts/post.njk
 ---
 
-![image](img/remote/stewie-prison.jpg)
+![An image](img/remote/stewie-jail.jpg)
+
 So Prisonms in this wonderful countrey of ours. Well first things first the cionstitution is crap. Innocent until proven guilty, jury of your peers,no cruel and unusual punishment, no iunjust bonds, speedy trials all bullshit. The sy>to control th epeopel that america didnt want what they thought was if we arent doing cruel shit peopel will be fine wit it . They dont want those types around either. Its a biased racist way of thinking. We all know crimwes at times>towards locking up certain races and demographics, th ecrack sentacing statutes of th e80's ....and i regress thanksgiving speech and our VP hiding behind a pillar of the WHITE house.Even though there is crediblke evidence and testim>government flooded the streets with crack. You know why we crack down on fentyl andf heroin our government was put out of business see look at it 60's herooin in america, veitnam. 70's early 80's poof gone. Desert Stormn heroins back>
 junkies,then gone then 9/11 back to th emiddle east and streets flooded and as fentynl and mexican cartel heroin took over we pulled out of the middle east. Do you see it if not that isi why you all are my
 
@@ -31,7 +32,7 @@ retarded little monkeys. Anyway so my point the government brings in th edope fl
 able to hold things imagine little eric and his friend joey. Eric days see my uncle Mikey he keeps getting caught stealing dont be liek him he only has 4 fingers left. Thats a fucking deterent.
 
 
-![A sample GIF](https://thumbs.gfycat.com/EqualCreativeCowbird-max-1mb.gif)
+![A sample GIF](https://)
 
 ## Section Header
 
