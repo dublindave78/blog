@@ -6,13 +6,11 @@ scheduled: 2022-05-23
 tags:
   - posts
 layout: layouts/post.njk
-[![An img](https://s8.gifyu.com/image/SxKZL)
-[![An image](https://i.ytimg.com/vi/lQBUB-x3b_0/maxresdefault.jpg)
 
 ---
-![An Img](https://s8.gifyu.com/image/SxKZL)
+![A GIF](https://s8.gifyu.com/images/tenor1f6f9311465a1bccf.gif)
 
-
+#Why is the version of US History taught in schools a lie
 
 
 So Im not sure about you but what I know is this that when i was in school , America was a melting Pot, bring your sick your tired your poor, create a better life with opportunity for your family. We had Thanksgiving plays where it was this great thing, 
@@ -49,8 +47,7 @@ Boy this is going to be fun
 
 
 
-
-![An image](https://i.ytimg.com/vi/lQBUB-x3b_0/maxresdefault.jpg)
+![image](https://i.ytimg.com/vi/lQBUB-x3b_0/maxresdefault.jpg)
 
 ``` text/2-3
 // this is a command

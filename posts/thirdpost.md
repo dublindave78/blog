@@ -1,7 +1,8 @@
 ---
-title: "3: What Grinds My Gears - 2nd Amendment"
-description: Why th eback and forth is so scripted in my opinin and why the 2nd Amendment will always stand and why it should.
-date: 2020-05-25
+title: Post Number 3 - 2nd Amendment
+description: Why the back and forth it is so scripted in my opinin. and why the 2nd Amendmen wont go away. It will always stand and why it should.
+date: 2022-25-05
+scheduled: 2022-25-05
 tags:
   - posts
 layout: layouts/post.njk
